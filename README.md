@@ -1,2 +1,2 @@
 # C3_VIP_R
-C3 VIP Intro to R
+This module was designed for the Boise State University C3 VIP course (VIP 200).
